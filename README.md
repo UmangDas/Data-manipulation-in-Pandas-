@@ -49,10 +49,4 @@ After executing the script, you will see the output of filtered data, along with
 ## Conclusion
 This project serves as a foundation for more complex data manipulation tasks in Python using Pandas. By mastering these techniques, you will enhance your data analysis capabilities and facilitate better decision-making through data-driven insights.
 
----
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Author
-Your Name
